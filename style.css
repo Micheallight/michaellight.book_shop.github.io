@@ -71,6 +71,10 @@ h1 {
 	text-align: left;
 }
 
+#product:hover {
+	background-color: #ccc;
+}
+
 #product img {
 	margin: auto;
 	align-self: center;
