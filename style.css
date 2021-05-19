@@ -71,10 +71,6 @@ h1 {
 	text-align: left;
 }
 
-#product:hover {
-	color: #00f;
-}
-
 #product img {
 	margin: auto;
 	align-self: center;
